@@ -1,0 +1,26 @@
+.Container {
+    width: 100%;
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+.title{
+    text-align: center;
+    font-size: 2rem;
+    font-family: sans-serif;
+    color: black;
+}
+
+.list {
+    list-style: none;
+    padding: 0%;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+li {
+    margin: .5em 0;
+    background-color: #000;
+    color: #fff;
+    padding: .5rem;
+}
